@@ -21,7 +21,9 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
-Library/
+Library/CurrentLayout.dwlt
+Library/CurrentMaximizeLayout.dwlt
+.DS_store
 
 # Temp dir
 Temp/
