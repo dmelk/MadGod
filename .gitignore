@@ -21,6 +21,10 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+Library/CurrentLayout.dwlt
+
+# Temp dir
+Temp/
 
 # Builds
 *.apk
