@@ -1,0 +1,2033 @@
+fileFormatVersion: 2
+guid: d3faf50151cb04e039b78edce4bd98c2
+timeCreated: 1484894878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackDragon_0
+    21300002: BlackDragon_1
+    21300004: BlackDragon_2
+    21300006: BlackDragon_3
+    21300008: BlackDragon_4
+    21300010: BlackDragon_5
+    21300012: BlackDragon_6
+    21300014: BlackDragon_7
+    21300016: BlackDragon_8
+    21300018: BlackDragon_9
+    21300020: BlackDragon_10
+    21300022: BlackDragon_11
+    21300024: BlackDragon_12
+    21300026: BlackDragon_13
+    21300028: BlackDragon_14
+    21300030: BlackDragon_15
+    21300032: BlackDragon_16
+    21300034: BlackDragon_17
+    21300036: BlackDragon_18
+    21300038: BlackDragon_19
+    21300040: BlackDragon_20
+    21300042: BlackDragon_21
+    21300044: BlackDragon_22
+    21300046: BlackDragon_23
+    21300048: BlackDragon_24
+    21300050: BlackDragon_25
+    21300052: BlackDragon_26
+    21300054: BlackDragon_27
+    21300056: BlackDragon_28
+    21300058: BlackDragon_29
+    21300060: BlackDragon_30
+    21300062: BlackDragon_31
+    21300064: BlackDragon_32
+    21300066: BlackDragon_33
+    21300068: BlackDragon_34
+    21300070: BlackDragon_35
+    21300072: BlackDragon_36
+    21300074: BlackDragon_37
+    21300076: BlackDragon_38
+    21300078: BlackDragon_39
+    21300080: BlackDragon_40
+    21300082: BlackDragon_41
+    21300084: BlackDragon_42
+    21300086: BlackDragon_43
+    21300088: BlackDragon_44
+    21300090: BlackDragon_45
+    21300092: BlackDragon_46
+    21300094: BlackDragon_47
+    21300096: BlackDragon_48
+    21300098: BlackDragon_49
+    21300100: BlackDragon_50
+    21300102: BlackDragon_51
+    21300104: BlackDragon_52
+    21300106: BlackDragon_53
+    21300108: BlackDragon_54
+    21300110: BlackDragon_55
+    21300112: BlackDragon_56
+    21300114: BlackDragon_57
+    21300116: BlackDragon_58
+    21300118: BlackDragon_59
+    21300120: BlackDragon_60
+    21300122: BlackDragon_61
+    21300124: BlackDragon_62
+    21300126: BlackDragon_63
+    21300128: BlackDragon_64
+    21300130: BlackDragon_65
+    21300132: BlackDragon_66
+    21300134: BlackDragon_67
+    21300136: BlackDragon_68
+    21300138: BlackDragon_69
+    21300140: BlackDragon_70
+    21300142: BlackDragon_71
+    21300144: BlackDragon_72
+    21300146: BlackDragon_73
+    21300148: BlackDragon_74
+    21300150: BlackDragon_75
+    21300152: BlackDragon_76
+    21300154: BlackDragon_77
+    21300156: BlackDragon_78
+    21300158: BlackDragon_79
+    21300160: BlackDragon_80
+    21300162: BlackDragon_81
+    21300164: BlackDragon_82
+    21300166: BlackDragon_83
+    21300168: BlackDragon_84
+    21300170: BlackDragon_85
+    21300172: BlackDragon_86
+    21300174: BlackDragon_87
+    21300176: BlackDragon_88
+    21300178: BlackDragon_89
+    21300180: BlackDragon_90
+    21300182: BlackDragon_91
+    21300184: BlackDragon_92
+    21300186: BlackDragon_93
+    21300188: BlackDragon_94
+    21300190: BlackDragon_95
+    21300192: BlackDragon_96
+    21300194: BlackDragon_97
+    21300196: BlackDragon_98
+    21300198: BlackDragon_99
+    21300200: BlackDragon_100
+    21300202: BlackDragon_101
+    21300204: BlackDragon_102
+    21300206: BlackDragon_103
+    21300208: BlackDragon_104
+    21300210: BlackDragon_105
+    21300212: BlackDragon_106
+    21300214: BlackDragon_107
+    21300216: BlackDragon_108
+    21300218: BlackDragon_109
+    21300220: BlackDragon_110
+    21300222: BlackDragon_111
+    21300224: BlackDragon_112
+    21300226: BlackDragon_113
+    21300228: BlackDragon_114
+    21300230: BlackDragon_115
+    21300232: BlackDragon_116
+    21300234: BlackDragon_117
+    21300236: BlackDragon_118
+    21300238: BlackDragon_119
+    21300240: BlackDragon_120
+    21300242: BlackDragon_121
+    21300244: BlackDragon_122
+    21300246: BlackDragon_123
+    21300248: BlackDragon_124
+    21300250: BlackDragon_125
+    21300252: BlackDragon_126
+    21300254: BlackDragon_127
+    21300256: BlackDragon_128
+    21300258: BlackDragon_129
+    21300260: BlackDragon_130
+    21300262: BlackDragon_131
+    21300264: BlackDragon_132
+    21300266: BlackDragon_133
+    21300268: BlackDragon_134
+    21300270: BlackDragon_135
+    21300272: BlackDragon_136
+    21300274: BlackDragon_137
+    21300276: BlackDragon_138
+    21300278: BlackDragon_139
+    21300280: BlackDragon_140
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 72
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackDragon_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1148
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1149
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1149
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1149
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1150
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1151
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1149
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1155
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1150
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1154
+        width: 167
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1157
+        width: 183
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1158
+        width: 184
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_12
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1157
+        width: 169
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_13
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1152
+        width: 133
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_14
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1170
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_15
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1206
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_16
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1202
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_17
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1200
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1184
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_19
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1184
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_20
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1182
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_21
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1184
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_22
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1182
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_23
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1184
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_24
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1166
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_25
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1165
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_26
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1163
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_27
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1171
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_28
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1166
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_29
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1166
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 952
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 952
+        width: 179
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 964
+        width: 178
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 976
+        width: 180
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 976
+        width: 181
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_35
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 960
+        width: 181
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_36
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 964
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_37
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 960
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 959
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_39
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 958
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_40
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 947
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_41
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1018
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_42
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1018
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_43
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1018
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_44
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1018
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_45
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1018
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_46
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 975
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_47
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 742
+        width: 133
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 882
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_49
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 757
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_50
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 751
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_51
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 794
+        width: 88
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 740
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 735
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_54
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 743
+        width: 125
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 748
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_56
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 751
+        width: 132
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 849
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_58
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 844
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 845
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_60
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 848
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_61
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 848
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_62
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 756
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_63
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 841
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_64
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 814
+        width: 152
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 835
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_66
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 829
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 827
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_68
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 760
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 757
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_70
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 798
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_71
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 798
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_72
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 801
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_73
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 520
+        width: 254
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_74
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 676
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 532
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_76
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 539
+        width: 158
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 535
+        width: 187
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_78
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 534
+        width: 253
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_79
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 524
+        width: 203
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_80
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 536
+        width: 157
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 522
+        width: 188
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_82
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 511
+        width: 205
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_83
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 524
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_84
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 658
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 535
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_86
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 643
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_87
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 538
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 143
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 175
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 200
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_91
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 303
+        width: 209
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_92
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 300
+        width: 222
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 299
+        width: 192
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_94
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 289
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 297
+        width: 172
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_96
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 298
+        width: 221
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_97
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 363
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_98
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 298
+        width: 236
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_99
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 289
+        width: 181
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_100
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 306
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_101
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 293
+        width: 148
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_102
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 361
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_103
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_104
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 297
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_105
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 354
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_106
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 329
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_107
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 303
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_108
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 90
+        width: 147
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_111
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 91
+        width: 133
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 91
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_113
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 69
+        width: 198
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_114
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 53
+        width: 216
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_115
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 57
+        width: 198
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_116
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 83
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_117
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 69
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_118
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 82
+        width: 170
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_119
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 19
+        width: 199
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_120
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 10
+        width: 217
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_121
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 10
+        width: 199
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_122
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 81
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_123
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 74
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_124
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_125
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_126
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 71
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_127
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 74
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 61
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 61
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 73
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_133
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_134
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 66
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_135
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 57
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_136
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_137
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_138
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_139
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlackDragon_140
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 48
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
